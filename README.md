@@ -416,7 +416,7 @@ MIT License — use it, fork it, build on it. If you do something interesting wi
 <div align="center">
 
 **Built by [Rajesh Kumar Jogi](https://www.linkedin.com/in/rajeshkumarjogi)**
-*AI Agent Developer · MSc Artificial Intelligence — University of East London · Green Environment Ltd*
+*AI Agent Developer · MSc Artificial Intelligence — University of East London*
 
 <br />
 
